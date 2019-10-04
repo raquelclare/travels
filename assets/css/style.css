@@ -1,0 +1,18 @@
+/*=======================GENERAL=======================*/
+/*=======================NAVBAR=======================*/
+.navbar {
+	align-items: right;
+}
+
+.navbar ul {
+	float: right;
+}
+
+.navbar ul a {
+	text-decoration: none;
+	color: black;
+}
+/*=======================HOME=======================*/
+img {
+	transform: rotate(-90deg);
+}
